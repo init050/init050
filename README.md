@@ -52,19 +52,11 @@ mindmap
     Microservices
       Design Patterns
       Service Mesh
-      API Gateway
     Cloud Native
       Kubernetes
       Docker Swarm
       AWS/Azure
-    Performance
-      Caching Strategies
-      Database Optimization
-      Load Balancing
-    Security
-      OAuth 2.0
-      API Security
-      Penetration Testing
+
 ```
 
 </div>
