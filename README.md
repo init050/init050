@@ -1,108 +1,224 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Fazel%20Zare&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Backend%20Developer&descAlignY=55&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12343b,100:1a1a2e&height=120&section=header&text=Fazel%20Zare&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20Expert&descAlignY=58&descSize=16" alt="header"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%26+DRF+Specialist;API+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=def+build_scalable_apis():;return+Django()+%2B+DRF()+%2B+PostgreSQL();while+True:+solve_problems();" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-## **About Me**
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 💻 **About**
 
 ```python
-class Developer:
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class BackendDeveloper:
+    """Building robust backend solutions."""
+    
     def __init__(self):
         self.name = "Fazel Zare"
         self.role = "Backend Developer"
         self.location = "Tehran, Iran"
-        self.focus = "Building scalable APIs"
+        self.email = "Fazelzare@proton.me"
         
-    def tech_stack(self):
+    @property
+    def skills(self):
         return {
-            "backend": ["Django", "DRF", "FastAPI"],
-            "database": ["PostgreSQL", "Redis", "MongoDB"],
-            "tools": ["Docker", "Git", "Linux"],
-            "learning": ["Microservices", "Kubernetes"]
+            "languages": ["Python", "JavaScript"],
+            "backend": ["Django", "Django REST Framework"],
+            "databases": ["PostgreSQL", "Redis"],
+            "tools": ["Docker", "Git", "Celery"],
+            "realtime": ["WebSockets", "Django Channels"],
+            "frontend": ["Tailwind CSS"]
         }
+    
+    def daily_routine(self):
+        while True:
+            self.code()
+            self.debug()
+            self.optimize()
+            self.deploy()
 
-dev = Developer()
+# Initialize
+developer = BackendDeveloper()
 ```
 
-<br clear="right">
+<br>
 
-## **Tech Stack**
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### Backend & Database
-<div>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,mongodb&theme=dark" />
-</div>
-
-### Tools & DevOps  
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,nginx&theme=dark" />
-</div>
-
-### Frontend & Others
-<div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vscode&theme=dark" />
-</div>
+### Core Technologies
+```
+Python          ████████████████████  Django          ████████████████████
+JavaScript      ████████████████████  DRF             ████████████████████
+PostgreSQL      ████████████████████  Redis           ████████████████████
+Docker          ████████████████████  Git             ████████████████████
+Celery          ████████████████████  WebSocket       ████████████████████
+CI/CD           ████████████████████  Unit Testing    ████████████████████
+Tailwind CSS    ████████████████████  Django Channels ████████████████████
+```
 
 </div>
 
 <br>
 
-## **Core Skills**
+## 📦 **Projects**
+
+### `spotify-clone/`
+```bash
+├── 🎵 Full-Featured Music Streaming Platform
+├── 🔧 Stack: Django + DRF + PostgreSQL + Redis + Celery + Docker
+├── 📋 Features:
+│   ├── Complete Authentication System with 2FA
+│   ├── High-Fidelity Audio Streaming
+│   ├── Asynchronous Audio Processing
+│   ├── Music Catalog Management
+│   ├── Playlists & Library System
+│   └── Social Features
+└── 📂 Status: Open Source
+```
+
+### `plant-shop/`
+```bash
+├── 🌿 Modern E-Commerce & Content Platform
+├── 🔧 Stack: Django 5.1 + Channels + PostgreSQL + Redis + Tailwind
+├── 📋 Features:
+│   ├── Modern E-Commerce Store
+│   ├── Rich Content & Articles System
+│   ├── Real-Time Chat Support (WebSocket)
+│   ├── User Account Management
+│   └── Responsive Design
+└── 📂 Status: In Development
+```
+
+<br>
+
+## 💼 **Experience**
+
+```javascript
+const experience = {
+    company: "Payavardasa",
+    role: "Python Developer",
+    period: "January 2023 - September 2024",
+    location: "Tehran",
+    
+    responsibilities: [
+        "Built automated data collection tools",
+        "Designed data extraction systems",
+        "Optimized workflows through automation",
+        "Developed custom solutions for complex problems",
+        "Improved system efficiency with modern tech"
+    ],
+    
+    achievements: {
+        automation: "50+ processes automated",
+        data_processing: "1M+ records processed daily",
+        performance: "70% reduction in processing time",
+        tools_developed: "20+ custom tools"
+    }
+};
+```
+
+<br>
+
+## 🎯 **Skills Matrix**
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Backend** | Django, Django REST Framework, FastAPI |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **DevOps** | Docker, CI/CD, Git, Linux |
-| **Real-time** | WebSockets, Django Channels, Celery |
-| **Testing** | Unit Testing, TDD, Pytest |
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      TECHNICAL SKILLS                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Backend Development       ▪ Django & Django REST Framework │
+│  Database Management       ▪ PostgreSQL, Redis              │
+│  Real-time Systems        ▪ WebSockets, Django Channels    │
+│  Task Processing          ▪ Celery, Async Operations       │
+│  DevOps & Deployment      ▪ Docker, CI/CD Pipelines        │
+│  Testing & QA             ▪ Unit Testing, TDD              │
+│  Version Control          ▪ Git, GitHub                    │
+│  Frontend Basics          ▪ JavaScript, Tailwind CSS       │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                       SOFT SKILLS                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  • Project Management     • Team Collaboration             │
+│  • Technical Leadership   • Problem Solving                │
+│  • Clear Communication    • Continuous Learning            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br>
 
-## **Current Focus**
+## 🔄 **Current Focus**
 
-<div align="center">
+```python
+import asyncio
 
-- 🔧 **Microservices Architecture**
-- ☁️ **Cloud Native Development** 
-- ⚡ **API Performance Optimization**
-- 🔒 **Security Best Practices**
+async def learning_roadmap_2025():
+    """My technical growth path for 2025"""
+    
+    topics = [
+        "Microservices Architecture",
+        "Cloud Native Development",
+        "Advanced PostgreSQL Optimization",
+        "Kubernetes Orchestration",
+        "Event-Driven Architecture",
+        "GraphQL Implementation"
+    ]
+    
+    for topic in topics:
+        await study(topic)
+        await implement(topic)
+        await optimize(topic)
+    
+    return "Ready for new challenges!"
 
-</div>
+# Execute learning plan
+asyncio.run(learning_roadmap_2025())
+```
 
 <br>
 
-## **Connect**
+## 🔗 **Connect**
 
 <div align="center">
-  
-  <a href="https://github.com/init050">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/fazel-zare">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Fazelzare@proton.me">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/fazeljoon">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+
+```bash
+$ echo "Let's connect and build something amazing together!"
+
+# Find me at:
+github    : https://github.com/init050
+linkedin  : https://linkedin.com/in/fazel-zare
+email     : Fazelzare@proton.me
+location  : Tehran, Iran
+```
+
+<br>
+
+<a href="https://github.com/init050">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="28"/>
+</a>
+<a href="https://linkedin.com/in/fazel-zare">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+</a>
+<a href="mailto:Fazelzare@proton.me">
+  <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" height="28"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=init050&style=flat-square&color=00D9FF&label=Profile+Views" />
 
 </div>
 
@@ -111,5 +227,10 @@ dev = Developer()
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+  
+  **`while (alive) { code(); debug(); deploy(); }`**
+  
+  <br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12343b,100:1a1a2e&height=60&section=footer" />
 </div>
