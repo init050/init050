@@ -1,178 +1,98 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=150&section=header&text=Fazel%20Zare&fontSize=60&fontAlignY=40&fontColor=58a6ff&desc=Backend%20Developer%20%7C%20Django%20Specialist&descAlignY=60&descSize=16" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Fazel%20Zare&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Backend%20Developer&descAlignY=55&descSize=18" alt="header"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=false&random=false&width=700&lines=while(true)+%7B+code();+optimize();+deploy();+%7D;Building+RESTful+APIs+with+Django+%26+DRF;Solving+complex+problems+with+simple+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%26+DRF+Specialist;API+Architect" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-## 🖥️ **About**
+## **About Me**
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-#!/usr/bin/env python3
-
-class BackendDeveloper:
+class Developer:
     def __init__(self):
         self.name = "Fazel Zare"
         self.role = "Backend Developer"
         self.location = "Tehran, Iran"
-        self.experience = "2+ years"
+        self.focus = "Building scalable APIs"
         
-    @property
     def tech_stack(self):
         return {
-            "languages": ["Python", "JavaScript"],
-            "backend": ["Django", "Django REST Framework"],
-            "databases": ["PostgreSQL", "Redis"],
-            "tools": ["Docker", "Git", "Celery"],
-            "realtime": ["WebSockets", "Django Channels"],
-            "frontend": ["Tailwind CSS"]
+            "backend": ["Django", "DRF", "FastAPI"],
+            "database": ["PostgreSQL", "Redis", "MongoDB"],
+            "tools": ["Docker", "Git", "Linux"],
+            "learning": ["Microservices", "Kubernetes"]
         }
-    
-    def current_work(self):
-        return "Building scalable backend solutions"
 
-developer = BackendDeveloper()
+dev = Developer()
 ```
 
-<br>
+<br clear="right">
 
-## ⚡ **Tech Stack**
+## **Tech Stack**
 
 <div align="center">
 
-### Core Technologies
+### Backend & Database
 <div>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,mongodb&theme=dark" />
 </div>
 
-### Additional Tools
+### Tools & DevOps  
 <div>
-  <img src="https://skillicons.dev/icons?i=js,tailwind,linux,nginx,github,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,github,nginx&theme=dark" />
+</div>
+
+### Frontend & Others
+<div>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vscode&theme=dark" />
 </div>
 
 </div>
 
 <br>
 
-## 📂 **Featured Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎵 Spotify Clone
-**Full-Featured Music Streaming Platform**
-
-```yaml
-Tech Stack:
-  - Django + DRF
-  - PostgreSQL + Redis
-  - Celery + Docker
-  - WebSockets
-
-Features:
-  - JWT Auth with 2FA
-  - Audio Streaming
-  - Async Processing
-  - Playlist Management
-  - Real-time Updates
-```
-
-[View Repository →](https://github.com/init050/spotify-clone)
-
-</td>
-<td width="50%">
-
-### 🌿 Plant Shop
-**Modern E-Commerce Platform**
-
-```yaml
-Tech Stack:
-  - Django 5.1 + Channels
-  - PostgreSQL + Redis  
-  - Tailwind CSS
-  - Daphne ASGI
-
-Features:
-  - E-Commerce Store
-  - Real-time Chat
-  - Content Management
-  - Responsive Design
-  - Admin Dashboard
-```
-
-[View Repository →](https://github.com/init050/plant-shop)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💼 **Professional Experience**
-
-### Python Developer @ Payavardasa
-`January 2023 - September 2024 | Tehran`
-
-```javascript
-const contributions = {
-    automation: "Built 50+ automation tools",
-    dataProcessing: "Handled 1M+ daily records",
-    optimization: "Reduced processing time by 70%",
-    solutions: "Developed custom data pipelines"
-};
-```
-
-<br>
-
-## 🛠️ **Skills**
+## **Core Skills**
 
 <div align="center">
 
-```
-Backend Development     ━━━━━━━━━━━━━━━━━━━━  Django, DRF, API Design
-Database Management     ━━━━━━━━━━━━━━━━━━━━  PostgreSQL, Redis, Query Optimization  
-DevOps & Deployment     ━━━━━━━━━━━━━━━━━━━━  Docker, CI/CD, Git
-Real-time Systems       ━━━━━━━━━━━━━━━━━━━━  WebSockets, Django Channels
-Task Processing         ━━━━━━━━━━━━━━━━━━━━  Celery, Async Operations
-Testing                 ━━━━━━━━━━━━━━━━━━━━  Unit Testing, TDD
-Frontend Basics         ━━━━━━━━━━━━━━━━━━━━  JavaScript, Tailwind CSS
-
-Soft Skills:            Project Management • Team Collaboration • Problem Solving
-```
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Backend** | Django, Django REST Framework, FastAPI |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **DevOps** | Docker, CI/CD, Git, Linux |
+| **Real-time** | WebSockets, Django Channels, Celery |
+| **Testing** | Unit Testing, TDD, Pytest |
 
 </div>
 
 <br>
 
-## 🎯 **Current Focus**
+## **Current Focus**
 
-```python
-# Learning roadmap for 2025
-roadmap = {
-    "microservices": ["Design Patterns", "Service Mesh", "API Gateway"],
-    "cloud": ["Kubernetes", "AWS/Azure", "Serverless"],
-    "performance": ["Caching", "Database Optimization", "Load Balancing"],
-    "architecture": ["Event-Driven", "Domain-Driven Design", "CQRS"]
-}
+<div align="center">
 
-for area, topics in roadmap.items():
-    print(f"Learning {area}: {', '.join(topics)}")
-```
+- 🔧 **Microservices Architecture**
+- ☁️ **Cloud Native Development** 
+- ⚡ **API Performance Optimization**
+- 🔒 **Security Best Practices**
+
+</div>
 
 <br>
 
-## 🔗 **Connect**
+## **Connect**
 
 <div align="center">
   
   <a href="https://github.com/init050">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/fazel-zare">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -180,20 +100,16 @@ for area, topics in roadmap.items():
   <a href="mailto:Fazelzare@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=init050&style=flat-square&color=58a6ff" />
-  
+  <a href="https://t.me/fazeljoon">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-  
-  **`{ code: "clean", deploy: "often", debug: "always" }`**
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </div>
