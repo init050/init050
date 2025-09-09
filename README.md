@@ -1,31 +1,26 @@
-<h1 align="center">Welcome to my GitHub!</h1>
+# 👋 Hi, I'm init050  
 
-###
+Welcome to my GitHub profile!  
+I enjoy building projects, learning new technologies, and experimenting with ideas that can make development more fun and efficient. 🚀  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-</div>
+---
 
-###
+### 🔥 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=init050&show_icons=true&theme=radical)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fazelzareme" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### 📈 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com/?user=init050&theme=radical)
+
+---
+
+### 🛠️ Languages & Tools  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=init050&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me  
+- 💼 [GitHub Profile](https://github.com/init050)  
+- ✉️ Feel free to reach out if you’d like to collaborate!  
+
