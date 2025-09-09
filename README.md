@@ -55,7 +55,7 @@ me.say_hello()
 
 ### ☁️ DevOps & Cloud
 <div>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,nginx,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,bash&theme=dark" />
 </div>
 
 </div>
