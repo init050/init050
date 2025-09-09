@@ -81,114 +81,15 @@ me.say_hello()
 
 <div align="center">
 
-| 🎨 **Category** | 🛠️ **Technologies** | 📊 **Proficiency** |
+| 🎨 **Category** | 🛠️ **Technologies** | 
 |:---:|:---|:---:|
-| **Backend** | Django, Django REST Framework, FastAPI | █████████░ 90% |
-| **Databases** | PostgreSQL, Redis, MongoDB | ████████░░ 80% |
-| **DevOps** | Docker, CI/CD, Git, Linux | ████████░░ 80% |
-| **Real-time** | WebSockets, Django Channels, Celery | █████████░ 90% |
-| **Testing** | Unit Testing, TDD, Pytest | ███████░░░ 70% |
-| **Frontend** | JavaScript, Tailwind CSS | ██████░░░░ 60% |
+| **Backend** | Django, Django REST Framework, FastAPI |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **DevOps** | Docker, CI/CD, Git, Linux |
+| **Real-time** | WebSockets, Django Channels, Celery |
+| **Testing** | Unit Testing, TDD, Pytest |
+| **Frontend** | JavaScript, Tailwind CSS |
 
-</div>
-
-<br>
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <a href="https://github.com/init050/spotify-clone">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=init050&repo=spotify-clone&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/init050/plant-shop">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=init050&repo=plant-shop&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-
-### 🎵 **Spotify Clone** - Full Music Streaming Platform
-<div align="left">
-  
-```mermaid
-graph LR
-    A[Django Backend] --> B[REST API]
-    B --> C[PostgreSQL]
-    B --> D[Redis Cache]
-    B --> E[Celery Workers]
-    E --> F[Audio Processing]
-    B --> G[WebSocket]
-    G --> H[Real-time Updates]
-```
-
-**Key Features:**
-- 🔐 JWT Authentication with 2FA
-- 🎵 High-quality audio streaming with adaptive bitrate
-- 📊 Real-time analytics dashboard
-- 🎧 Smart playlist generation
-- 👥 Social features & collaborative playlists
-- ⚡ Async audio processing with Celery
-
-</div>
-
----
-
-### 🌿 **Plant Shop** - Modern E-Commerce Platform
-<div align="left">
-
-```mermaid
-graph LR
-    A[Django 5.1] --> B[Channels]
-    B --> C[WebSocket]
-    C --> D[Live Chat]
-    A --> E[PostgreSQL]
-    A --> F[Redis]
-    F --> G[Session Store]
-    A --> H[Tailwind CSS]
-```
-
-**Key Features:**
-- 🛒 Full e-commerce functionality
-- 💬 Real-time customer support chat
-- 📱 Responsive design with Tailwind CSS
-- 🔍 Advanced search & filtering
-- 📊 Admin analytics dashboard
-- 🚀 ASGI deployment with Daphne
-
-</div>
-
-<br>
-
-## 💼 **Professional Journey**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
-
-### 🏢 **Python Developer @ Payavardasa**
-`January 2023 - September 2024 | Tehran, Iran`
-
-```javascript
-const achievements = [
-  "🔄 Automated 50+ manual processes",
-  "📊 Built data pipeline processing 1M+ records daily",
-  "⚡ Reduced data processing time by 70%",
-  "🛠️ Developed 20+ custom automation tools",
-  "📈 Improved system efficiency by 3x"
-];
-
-achievements.forEach(achievement => {
-  console.log(achievement);
-});
-```
-
-<br clear="right">
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=init050&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=init050&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=init050&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
 </div>
 
 <br>
