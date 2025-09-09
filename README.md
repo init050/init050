@@ -42,48 +42,6 @@
 
 ---
 
-## 💼 **Professional Skills**
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🔧 **Technical**
-**Backend Development**  
-**API Design & REST**  
-**Database Architecture**  
-**Real-time Systems**  
-**Testing & QA**  
-**Performance Optimization**
-
-</td>
-<td align="center" width="33%">
-
-### 🏗️ **Architecture**
-**Microservices Design**  
-**Scalable Systems**  
-**Caching Strategies**  
-**Message Queues**  
-**WebSocket Implementation**  
-**Security Best Practices**
-
-</td>
-<td align="center" width="33%">
-
-### 👥 **Soft Skills**
-**Project Management**  
-**Team Leadership**  
-**Agile Methodologies**  
-**Problem Solving**  
-**Technical Documentation**  
-**Collaborative Development**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 **Current Focus**
 
 <div align="center">
@@ -113,21 +71,6 @@ mindmap
 
 ---
 
-## 🛠️ **Core Competencies**
-
-<div align="center">
-
-| **Backend** | **Database** | **DevOps** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| Django | PostgreSQL | Docker | Git |
-| Django REST | Redis | CI/CD | Celery |
-| WebSocket | Query Optimization | Unit Testing | API Testing |
-| RESTful APIs | Database Design | Containerization | Version Control |
-
-</div>
-
----
-
 ## 📊 **Development Philosophy**
 
 <div align="center">
@@ -144,18 +87,6 @@ mindmap
 **• Follow security best practices**
 
 </div>
-
----
-
-## 🌟 **What I Bring to the Table**
-
-- 🏗️ **Architecture Design**: Building scalable and maintainable backend systems
-- 🔌 **API Development**: Creating robust RESTful APIs with Django REST Framework
-- 📊 **Database Expertise**: Designing efficient database schemas and optimization
-- 🚀 **Performance**: Implementing caching strategies and query optimization
-- 🔄 **Real-time Features**: WebSocket integration for live functionality
-- 🐳 **DevOps**: Containerization and CI/CD pipeline implementation
-- 👥 **Leadership**: Leading development teams and managing projects
 
 ---
 
