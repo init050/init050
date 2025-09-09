@@ -32,15 +32,6 @@ class BackendArchitect:
     def say_hello(self):
         print("Thanks for visiting my profile!")
         print("Let's build something amazing together 🚀")
-        
-    def my_stack(self):
-        return {
-            "backend": ["Django", "DRF", "FastAPI"],
-            "database": ["PostgreSQL", "Redis", "MongoDB"],
-            "devops": ["Docker", "CI/CD", "AWS"],
-            "realtime": ["WebSockets", "Django Channels"],
-            "currently_learning": ["Microservices", "Kubernetes"]
-        }
 
 me = BackendArchitect()
 me.say_hello()
@@ -130,13 +121,13 @@ mindmap
   <a href="https://github.com/init050">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=3a3a3a" />
   </a>
-  <a href="https://linkedin.com/in/fazel-zare">
+  <a href="https://www.linkedin.com/in/fazelzareme">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0e76a8" />
   </a>
   <a href="mailto:Fazelzare@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC&color=6d4aff" />
   </a>
-  <a href="https://t.me/fazeljoon">
+  <a href="https://t.me/init050">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=0088cc" />
   </a>
 
