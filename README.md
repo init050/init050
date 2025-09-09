@@ -90,21 +90,6 @@ mindmap
 
 ---
 
-## 📬 **Let's Connect**
-
-<div align="center">
-
-I'm always interested in discussing new opportunities, challenging projects, and innovative solutions.
-
-**📧 Email**: [Fazelzare@proton.me](mailto:Fazelzare@proton.me)  
-**💼 LinkedIn**: [/in/fazelzareme](https://www.linkedin.com/in/fazelzareme)  
-**🐙 GitHub**: [init050](https://github.com/init050)  
-**✈️ Telegram**: [@init050](https://t.me/init050)
-
-</div>
-
----
-
 <div align="center">
   
 ### **"Building robust backends, one API at a time"**
