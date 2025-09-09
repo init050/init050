@@ -57,14 +57,14 @@ me.say_hello()
   <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git&theme=dark" />
 </div>
 
-### 🛠️ Full Stack & Tools
+### 🛠️ Front & Tools
 <div>
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,linux,vscode&theme=dark" />
 </div>
 
 ### ☁️ DevOps & Cloud
 <div>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,nginx,bash,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,githubactions,nginx,bash&theme=dark" />
 </div>
 
 </div>
@@ -82,28 +82,13 @@ me.say_hello()
 <div align="center">
 
 | 🎨 **Category** | 🛠️ **Technologies** | 
-|:---:|:---|:---:|
+|:---:|:---|
 | **Backend** | Django, Django REST Framework, FastAPI |
 | **Databases** | PostgreSQL, Redis, MongoDB |
 | **DevOps** | Docker, CI/CD, Git, Linux |
 | **Real-time** | WebSockets, Django Channels, Celery |
 | **Testing** | Unit Testing, TDD, Pytest |
 | **Frontend** | JavaScript, Tailwind CSS |
-
-</div>
-
-<br>
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-
-| 🎖️ **Achievement** | 📅 **Date** | 🏢 **Issuer** |
-|:---|:---:|:---:|
-| 🥇 Backend Development Excellence | 2024 | Payavardasa |
-| 📜 Django Advanced Certification | 2023 | Online Course |
-| 🏅 Best Automation Solution | 2023 | Internal Award |
-| 🎯 Problem Solver of the Year | 2023 | Team Recognition |
 
 </div>
 
