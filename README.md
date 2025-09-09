@@ -68,23 +68,6 @@ me.say_hello()
 
 <br>
 
-## 🎯 **Expertise Breakdown**
-
-<div align="center">
-
-| 🎨 **Category** | 🛠️ **Technologies** | 
-|:---:|:---|
-| **Backend** | Django, Django REST Framework, FastAPI |
-| **Databases** | PostgreSQL, Redis, MongoDB |
-| **DevOps** | Docker, CI/CD, Git, Linux |
-| **Real-time** | WebSockets, Django Channels, Celery |
-| **Testing** | Unit Testing, TDD, Pytest |
-| **Frontend** | JavaScript, Tailwind CSS |
-
-</div>
-
-<br>
-
 ## 🎯 **Current Focus**
 
 <div align="center">
