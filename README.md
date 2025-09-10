@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> **FAZEL ZARE**
-### **✨ Backend Developer | Python, Django, DRF Specialist**
+### **✨ Backend Developer | Python, Django, DRF **
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%26+DRF+Expert;API+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
